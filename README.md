@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/chriskirknielsen/chriskirknielsen/raw/main/assets/profile.svg" width="199.8" height="545.1" alt="Half of Chris's head outlined, with nose, glasses, eyebrows and beard drawn" />
+
 ### Hello, I'm Chris
 
 **I'm a designer turned developer who loves working on the web.**
