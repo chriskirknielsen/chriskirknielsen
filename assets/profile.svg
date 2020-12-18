@@ -2,6 +2,7 @@
 	<defs>
         <style>
         .profile {
+            color: #808080; /* Set currentColor to a medium grey for both light and dark mode */
             transform: translateX(100%) scaleX(-1);
         }
 
