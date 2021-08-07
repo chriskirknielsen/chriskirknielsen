@@ -2,7 +2,7 @@
 
 ### Hello, I'm Chris
 
-**I'm a designer turned developer who loves working on the web.**
+**I'm a designer turned developer who loves building for the web.**
 
 - ⌨️ I'm a senior front-end developer at [MOJO](https://mojopsg.com)
 - 🌃 I absolutely love '80s aesthetics (neons ❤️)
